@@ -5,3 +5,7 @@ Conhecendo os principais recursos do Azure
 Conhecendo as principais categorias e serviços
 redes 
 Storage
+
+Foi apresentado os principais beneficios de nuvem do Azure, como Escalabilidade e Elasticidade
+Confiabilidade, previsibilidade e segurança
+Governança e gerenciabilidade
